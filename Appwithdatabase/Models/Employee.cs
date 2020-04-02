@@ -20,6 +20,9 @@ namespace Appwithdatabase.Models
 
         public String Address { get; set; }
 
+        public String AlternateAddress { get; set; }
+
+
 
     }
 }
