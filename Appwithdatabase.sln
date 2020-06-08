@@ -7,6 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Appwithdatabase", "Appwithd
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Webapp.DataBase", "Webapp.DataBase\Webapp.DataBase.sqlproj", "{412479F3-BD15-422B-AD13-6709692335C9}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TF", "TF", "{8D26056F-42F2-4937-BBBA-F8B441AA12A1}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Desktop\Terraform\Script Testing\main.tf = ..\..\..\Desktop\Terraform\Script Testing\main.tf
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
